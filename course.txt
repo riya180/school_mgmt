@@ -5,3 +5,11 @@ C
 C++
 
 Python
+
+Javascript
+
+PHP
+
+HTML
+
+CSS
